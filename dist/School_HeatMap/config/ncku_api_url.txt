@@ -1,0 +1,1 @@
+https://id.ncku.edu.tw/ncku/api/place_getdetail.php?place={place}&startdate={startdate}&enddate={enddate}
